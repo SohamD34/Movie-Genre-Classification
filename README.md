@@ -1,4 +1,4 @@
-# Skybug-Movie-Genre-Classification
+# Movie-Genre-Classification
 The aim of this project is to use textual description of a movie's plot/summary to classify it into genres.
 
 ## Data Description
